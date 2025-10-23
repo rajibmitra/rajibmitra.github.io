@@ -19,3 +19,10 @@ Currently working as a Staff Software Engineer at Okta, I specialize in architec
 With expertise in hybrid cloud infrastructures and observability practices, I contribute to building scalable and high-performing platforms capable of managing over a billion requests per second. I am committed to advancing infrastructure automation and delivering solutions that prioritize reliability, operational efficiency, and seamless integration across diverse cloud ecosystems.
 
 [View My GitHub](https://github.com/rajibmitra)
+
+## Resume
+
+You can view or download my resume here:
+
+- [Open Resume](/assets/resume.pdf){:target="_blank"}
+- [Download Resume](/assets/resume.pdf){:download="Rajib-Mitra-Resume.pdf"}

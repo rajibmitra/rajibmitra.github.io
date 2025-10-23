@@ -8,5 +8,5 @@ twitter_username: xDevLo
 linkedin_username: mitrarajib
 
 # Blog settings
-show_downloads: false
+show_downloads: true
 google_analytics: # Add your GA ID if you want analytics
