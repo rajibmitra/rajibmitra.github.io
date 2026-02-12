@@ -24,5 +24,5 @@ With expertise in hybrid cloud infrastructures and observability practices, I co
 
 You can view or download my resume here:
 
-- [Open Resume](/assets/resume.pdf){:target="_blank"}
-- [Download Resume](/assets/resume.pdf){:download="Rajib-Mitra-Resume.pdf"}
+- [Open Resume](/assets/Rajib_Mitra_Resume.pdf){:target="_blank"}
+- [Download Resume](/assets/Rajib_Mitra_Resume.pdf){:download="Rajib-Mitra-Resume.pdf"}
